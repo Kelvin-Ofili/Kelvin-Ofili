@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelvin Ofili</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">I'm a software engineer experience with building web applications using JavaScript and React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvin-ofili&label=Profile%20views&color=0e75b6&style=flat" alt="kelvin-ofili" /> </p>
 
