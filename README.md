@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelvin Ofili</h1>
-<h3 align="center">I'm a software engineer experience with building web applications using JavaScript and React</h3>
+<h3 align="center">I'm a software engineer with experience in building web applications using JavaScript and React</h3>
 
 - 🌱 I’m currently learning **ReactJS**
 
