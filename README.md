@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kelvin Ofili</h1>
 <h3 align="center">I'm a software engineer experience with building web applications using JavaScript and React</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvin-ofili&label=Profile%20views&color=0e75b6&style=flat" alt="kelvin-ofili" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelvin-ofili" alt="kelvin-ofili" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS**
