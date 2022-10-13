@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kelvinofili1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iErNG4c6fiNptf1UN_bSkPtdJSUQAs9s/view?usp=sharing](https://drive.google.com/file/d/1iErNG4c6fiNptf1UN_bSkPtdJSUQAs9s/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xty_lc2y4QfOClAAiKr7yG9dAjH9MJRU/view?usp=sharing](https://drive.google.com/file/d/1xty_lc2y4QfOClAAiKr7yG9dAjH9MJRU/view?usp=sharing)
 
 - ⚡ Fun fact **I play Basketball in my spare time.**
 
