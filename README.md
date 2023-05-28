@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kelvin Ofili</h1>
 <h3 align="center">I'm a software engineer with experience in building web applications using JavaScript and React</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 **ReactJS and TypeScript**
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS**
+- 💬 Ask me about **React, JavaScript, TypeScript, HTML, CSS**
 
 - 📫 How to reach me **kelvinofili1@gmail.com**
 
