@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kelvin Ofili</h1>
-<h3 align="center">I'm a software engineer with experience in building web applications using JavaScript and React</h3>
+<h3 align="center">I'm a software engineer with experience in building web applications using TypeScript and React</h3>
 
 - 🌱 **ReactJS and TypeScript**
 
-- 💬 Ask me about **React, JavaScript, TypeScript, HTML, CSS**
+- 💬 Ask me about **TypeScript, React, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **kelvinofili1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xty_lc2y4QfOClAAiKr7yG9dAjH9MJRU/view?usp=sharing](https://drive.google.com/file/d/1xty_lc2y4QfOClAAiKr7yG9dAjH9MJRU/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xty_lc2y4QfOClAAiKr7yG9dAjH9MJRU/view?usp=sharing](https://drive.google.com/file/d/1_N_dp4wBmFv0tOQ8G2lt18ZseBcnZAYn/view?usp=drive_link)
 
 - ⚡ Fun fact **I play Basketball in my spare time.**
 
